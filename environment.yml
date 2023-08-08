@@ -1,0 +1,5 @@
+name: fastai_PyTorch
+dependencies:
+  - bqplot
+  - voila
+  - voila-material=0.4.3
