@@ -1,5 +1,12 @@
 name: fastai_PyTorch
+channels:
+  - conda-forge
 dependencies:
   - bqplot
   - voila
   - voila-material=0.4.3
+  - fastbook
+  - fastai
+  - matplotlib
+  - PIL
+  - io
