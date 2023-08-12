@@ -3,3 +3,7 @@ dependencies:
   - bqplot
   - voila
   - voila-material=0.4.3
+  - fastai>=2
+  - pillow<7
+  - packaging
+  - ipywidgets=7.5.1
