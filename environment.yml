@@ -7,3 +7,4 @@ dependencies:
   - pillow
   - packaging
   - ipywidgets=7.5.1
+  - jupyter-flex
